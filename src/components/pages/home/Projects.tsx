@@ -54,8 +54,8 @@ const ProjectDetailsDialog = ({
     const videos = [
         Video1,
         "https://static.videezy.com/system/resources/previews/000/000/168/original/Record.mp4",
-        "https://static.videezy.com/system/resources/previews/000/004/381/original/Sunset_06.mp4",
-        "https://static.videezy.com/system/resources/previews/000/044/479/original/Mountain_26.mp4",
+        // "https://static.videezy.com/system/resources/previews/000/004/381/original/Sunset_06.mp4",
+        // "https://static.videezy.com/system/resources/previews/000/044/479/original/Mountain_26.mp4",
     ];
 
     const [activeIndex, setActiveIndex] = useState(0);
